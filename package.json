@@ -1,0 +1,20 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "Introduction to Nodejs and NPM",
+  "main": "index.html",
+  "scripts": {
+    "start": "browser-sync start --server --directory --files '**/*'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samin1994/git-test.git"
+  },
+  "author": "samin labbaf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samin1994/git-test/issues"
+  },
+  "homepage": "https://github.com/samin1994/git-test#readme"
+}
